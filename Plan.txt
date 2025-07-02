@@ -1,0 +1,28 @@
+Student's Environment:
+
+Features:
+    * "AI Chat Bot" Customized for Assitant's role
+    * Money Manager
+    * Planner
+    * Storing Notes
+    * Music Player
+    * Timer
+    * Progress tracker
+
+AI Chat Bot:
+    * It should be friendly as friend , tutor , Assitant.
+    * It should connect with all other modules like money manager etc,.
+    * It should reply questions like what is my task today , what's my balance?
+    * These thing/data should be stored in user local machine not in online/cloud.
+    * Should be natural.
+
+Money Manager:
+    * Total Control to the user no recommendation in usage of money should be upto them.
+    * Traditional money management tool with connect to AI to track it , AI can take information from this module.
+
+Planner:
+    * Traditional Planner , data access to AI bot.
+    * Priority can be assigned to each task.
+
+Progress Tracker:
+    * It can be track currently studing stuffs and all these things related to studies or extra curricular stuffs.
