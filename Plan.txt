@@ -26,3 +26,14 @@ Planner:
 
 Progress Tracker:
     * It can be track currently studing stuffs and all these things related to studies or extra curricular stuffs.
+
+Structure of the Project:
+    *HOME
+    *ENVIRONMENT
+    *PLANNER
+    *MONEYMANAGER
+I will add some features later....
+    
+Home:
+    * It will contain some login form when the user is click the login button.
+    * It will contain the main problem that we are solving. As a traditional webpage.
